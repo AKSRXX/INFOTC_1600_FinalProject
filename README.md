@@ -4,10 +4,10 @@ Final Project
 
 ## By Auston Soetaert
 
-![Freedom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/FI-After-Effects-Interface-Logo.jpg)
-![Library](https://user-images.githubusercontent.com/97974825/158621277-1d22619a-571c-4fa9-9416-12210a20a203.jpg)
+![AfterEffects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/FI-After-Effects-Interface-Logo.jpg)
+![Layout]([https://user-images.githubusercontent.com/97974825/158621277-1d22619a-571c-4fa9-9416-12210a20a203.jpg](https://fixthephoto.com/blog/UserFiles/Image/333/after-effects-interface.jpg))
 
-![Respect](https://user-images.githubusercontent.com/97974825/158621483-50beeb12-4b9f-407b-bd4c-348442de390b.jpg)
+![Example](https://pbblogassets.s3.amazonaws.com/uploads/2018/10/23152117/datag.gif)
 
 **Topics We Will Go Over:**
 
@@ -18,7 +18,7 @@ Final Project
 * Exporting and Changing Media Format
 
 
-## Links to Pages of Interests to me
+## Links to Topic 1: Importing Media
 
 [*Future Career*](Page1-FutureCareer.md)
 
