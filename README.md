@@ -18,9 +18,9 @@ Final Project
 * Exporting and Changing Media Format
 
 
-## Links to Topic 1: Importing Media
+## Links to All Topics
 
-[*Future Career*](Page1-FutureCareer.md)
+[*Topic 1: Importing Media*](Topic1.md)
 
 [*Ideal Lifestyle*](Page2-IdealLifestyle.md)
 
