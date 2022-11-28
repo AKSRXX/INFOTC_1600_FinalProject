@@ -1,26 +1,22 @@
 # INFOTC_1600_FinalProject
 Final Project
-# INFOTC_1600_Markdown
-This is the repository for my MarkDown project.
-## About Auston Soetaert
+# How To Work With Digital Video Using Adobe AfterEffects
 
-**Age:** I am 21 years old.
+## By Auston Soetaert
 
-**Appearance:** I am a 21 year old male with brown hair. I am 6 feet tall and often wear black slacks with a t-shirt
-
-**Describing Myself in 5 Words:**
-
-* Hardworking
-* Future-oriented
-* Calm
-* Analytic
-* Respectful
-
-**Pictures to describe my life:**
-![Freedom](https://user-images.githubusercontent.com/97974825/158620128-93dd0d18-29fe-4f7e-b75c-06d0af06dfe0.jpg)
+![Freedom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/FI-After-Effects-Interface-Logo.jpg)
 ![Library](https://user-images.githubusercontent.com/97974825/158621277-1d22619a-571c-4fa9-9416-12210a20a203.jpg)
 
 ![Respect](https://user-images.githubusercontent.com/97974825/158621483-50beeb12-4b9f-407b-bd4c-348442de390b.jpg)
+
+**Topics We Will Go Over:**
+
+* Importing Media
+* Adjusting Length and Pacing
+* Combining Multiple Digital Media Files
+* Adding Effects and Filters
+* Exporting and Changing Media Format
+
 
 ## Links to Pages of Interests to me
 
