@@ -21,7 +21,7 @@ Small towns are not as open to change as well.
 
 
 
-## House or Apartment?
+## Step 2
 
 
 I like living in an apartment. I lived in one in all my years of college and do not plan on changing that after I graduate.
@@ -33,7 +33,7 @@ to recharge. A simple bed and black furniture would suffice. A place for my coll
 ![apartment](https://user-images.githubusercontent.com/97974825/158632622-a6d1643c-94d2-45ca-946a-253acb8cbaf1.jpg)
 
 
-## Transportation
+## Step 3
 
 
 I would not mind if I only owned a bike but it does not seem ideal to me since it could cause trouble when trying to visit family.
