@@ -1,21 +1,24 @@
-# My Ideal Lifestyle
+# Adobe AfterEffects Overview
 
-## Where Do I Wish to Live
+Adobe After Effects is a powerful software application for creating motion graphics and special effects 
+It was Developed By Adobe and released in January 1993
+It allows you to:
+* Create Animation
+* Add Effects to Digital Media
+* Create Motion Graphics
+* Work in 3D space
+* And Much More!
+![AfterEffects](https://assets.rocketstock.com/uploads/2016/02/After-Effects-Interface.jpg)
 
+# How To Import Media In AfterEffects
 
-I always wanted to live in a big populated city such as New York, Los Angeles, Kansas City, or whereever it may be.
+## Step 1
 
-I like the idea of big city living because of the ammentities it offers such as
-* Plenty of Convenience Stores
-* The absence of small town gossip
-* Variety
-* Apartments
-* Job envirements
 
 I grew up in a small town and did not quite enjoy the way it was ran. It relied on who knew who and how long you lived there.
 Small towns are not as open to change as well.
 
-![city](https://user-images.githubusercontent.com/97974825/158632423-3698a1d7-db3c-48f9-bfb4-f6e96c16ea40.jpg)
+
 
 
 ## House or Apartment?
