@@ -17,5 +17,5 @@ Adjust The Length Or Move One Of Files To The Other Side Of The Corresponding Me
 Export As Preferred Media Type To Complete Process
 
 
-[**Step 4**](README.md)
+[**Step 4**](Topic4.md)
 [**Return to Home**](README.md)
