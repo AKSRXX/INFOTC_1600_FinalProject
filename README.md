@@ -23,7 +23,7 @@ Final Project
 
 [*Topic 1: Importing Media*](Topic1.md)
 
-[[*Topic 2: Adjusting Length and Pacing*](Topic1.md)
+[*Topic 2: Adjusting Length and Pacing*](Topic1.md)
 
 [*Topic 3: Combining Multiple Digital Media Files*](Topic1.md)
 
