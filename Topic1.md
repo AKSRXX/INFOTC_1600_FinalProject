@@ -14,13 +14,15 @@ It allows you to:
 
 ## Step 1
 
-
-
-
+Click New Project In The Top Left Of The Screen
+![1](https://user-images.githubusercontent.com/97974825/204553722-96abd887-6df4-48d2-8c2b-1eda458798c2.png)
 
 
 ## Step 2
 
+Click The File Tab In The Top Left Of The Screen
+CLick Import -> New File
+[2](https://user-images.githubusercontent.com/97974825/204553800-18f67103-18a4-430d-8a9c-c59ad0093514.png)
 
 I like living in an apartment. I lived in one in all my years of college and do not plan on changing that after I graduate.
 
