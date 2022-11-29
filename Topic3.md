@@ -14,7 +14,7 @@ Adjust The Length Or Move One Of Files To The Other Side Of The Corresponding Me
 ![3-2](https://user-images.githubusercontent.com/97974825/204566926-dc5cfe54-e6cb-4ebb-945d-a9219bee5591.png)
 
 ## Step 3
-Export As Preferred Media Type To Complete Process
+Export As Preferred Media Type To Complete Process [**Exporting Media Tutorial**](Topic5.md)
 
 
 [**Topic 4**](Topic4.md)
