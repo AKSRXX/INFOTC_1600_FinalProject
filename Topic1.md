@@ -20,19 +20,12 @@ Click New Project In The Top Left Of The Screen
 
 ## Step 2
 
-Click The File Tab In The Top Left Of The Screen
-CLick Import -> New File
+Click The File Tab In The Top Left Of The Screen -> CLick Import -> New File
 ![2](https://user-images.githubusercontent.com/97974825/204553800-18f67103-18a4-430d-8a9c-c59ad0093514.png)
 
 ## Step 3
+Select File You Want To Import -> Click Import -> Task Complete!
+![3](https://user-images.githubusercontent.com/97974825/204556787-ef46f96f-44b4-4aba-9e00-1b967584c318.png)
 
-
-I would not mind if I only owned a bike but it does not seem ideal to me since it could cause trouble when trying to visit family.
-
-I currently have a 2004 Ford Escape which gets the job done but my dream car is a newer Toyota Tundra. Toyota Tundras a beauty to me in
-
-a way that I cannot put into words unfortunatly.
-
-![truck](https://user-images.githubusercontent.com/97974825/158632798-16a88631-04d0-4fb7-a5bc-3d318b6711cc.jpg)
-
+[**Step 2**](README.md)
 [**Return to Home**](README.md)
