@@ -1,5 +1,3 @@
-# INFOTC_1600_FinalProject
-Final Project
 # How To Work With Digital Video Using Adobe AfterEffects
 
 ## By Auston Soetaert
