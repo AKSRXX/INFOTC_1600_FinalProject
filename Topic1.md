@@ -24,15 +24,6 @@ Click The File Tab In The Top Left Of The Screen
 CLick Import -> New File
 ![2](https://user-images.githubusercontent.com/97974825/204553800-18f67103-18a4-430d-8a9c-c59ad0093514.png)
 
-I like living in an apartment. I lived in one in all my years of college and do not plan on changing that after I graduate.
-
-I am more of a minimalist and like small spaces. I want a 1 or 2 bedroom apartment with a small kitchen. I think of a home as a place
-
-to recharge. A simple bed and black furniture would suffice. A place for my collectables would be ideal.
-
-![apartment](https://user-images.githubusercontent.com/97974825/158632622-a6d1643c-94d2-45ca-946a-253acb8cbaf1.jpg)
-
-
 ## Step 3
 
 
