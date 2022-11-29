@@ -16,6 +16,8 @@ Lots Of Effects Need to Be Adjusted. One Way Is To Adjust Settings To Have The E
 ## Step 3
 Enjoy And Explore The Many Filters And Effects There Is To Offer!
 
+## Links
 
 [**Topic 5**](Topic5.md)
+
 [**Return to Home**](README.md)
