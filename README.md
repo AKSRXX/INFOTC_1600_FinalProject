@@ -6,6 +6,7 @@ Final Project
 
 ![AfterEffects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/FI-After-Effects-Interface-Logo.jpg)
 
+
 **Topics We Will Go Over:**
 
 * Importing Media
@@ -14,10 +15,8 @@ Final Project
 * Adding Effects and Filters
 * Exporting and Changing Media Format
 
+
 ![Layout](https://fixthephoto.com/blog/UserFiles/Image/333/after-effects-interface.jpg)
-
-![Example](https://pbblogassets.s3.amazonaws.com/uploads/2018/10/23152117/datag.gif)
-
 
 
 ## Links to All Topics
@@ -31,3 +30,5 @@ Final Project
 [*Topic 4: Adding Effects and Filters*](Topic1.md)
 
 [*Topic 5: Exporting and Changing Media Format*](Topic1.md)
+
+![Example](https://pbblogassets.s3.amazonaws.com/uploads/2018/10/23152117/datag.gif)
