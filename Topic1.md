@@ -15,8 +15,6 @@ It allows you to:
 ## Step 1
 
 
-I grew up in a small town and did not quite enjoy the way it was ran. It relied on who knew who and how long you lived there.
-Small towns are not as open to change as well.
 
 
 
