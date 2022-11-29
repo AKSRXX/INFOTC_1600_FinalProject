@@ -18,5 +18,5 @@ Click The File Tab In The Top Left Of The Screen -> CLick Import -> New File
 To Split File -> Drag TimeStamp Over Where You Want To Split -> Click Edit -> Split File -> Use These Steps To Create Your Ideal Pacing (Practice Makes Perfect!)
 ![2-3](https://user-images.githubusercontent.com/97974825/204563906-0308ce34-48ab-4090-ab81-5df8d6e9299b.png)
 
-[**Step 3**](README.md)
+[**Topic 3**](Topic3.md)
 [**Return to Home**](README.md)
