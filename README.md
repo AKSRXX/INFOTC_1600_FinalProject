@@ -22,8 +22,10 @@ Final Project
 
 [*Topic 1: Importing Media*](Topic1.md)
 
-[*Ideal Lifestyle*](Page2-IdealLifestyle.md)
+[[*Topic 2: Adjusting Length and Pacing*](Topic1.md)
 
-[*My Morals/Philosophy*](Page3-Morals.md)
+[*Topic 3: Combining Multiple Digital Media Files*](Topic1.md)
 
-[*My Appreciation For Comics/Superheroes*](Page4-Appreciation.md)
+[*Topic 4: Adding Effects and Filters*](Topic1.md)
+
+[*Topic 5: Exporting and Changing Media Format*](Topic1.md)
