@@ -6,10 +6,13 @@ Final Project
 
 ![AfterEffects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/FI-After-Effects-Interface-Logo.jpg)
 
+This Tutorial Will Allow Beginner or Future AfterEffects Users A Chance To Learn Some Of The Basics Of The Program
+
+This Tutorial Is Geared Towards First Time Users Of AfterEffects As A Short Guide
 
 **Topics We Will Go Over:**
 
-* Importing Media
+* AfterEffects Introduction/Importing Media
 * Adjusting Length and Pacing
 * Combining Multiple Digital Media Files
 * Adding Effects and Filters
@@ -21,7 +24,7 @@ Final Project
 
 ## Links to All Topics
 
-[*Topic 1: Importing Media*](Topic1.md)
+[*Topic 1: AfterEffects Introduction/Importing Media*](Topic1.md)
 
 [*Topic 2: Adjusting Length and Pacing*](Topic1.md)
 
